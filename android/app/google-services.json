@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "105204175291",
+    "firebase_url": "https://fir-tutorial-bc737-default-rtdb.firebaseio.com",
+    "project_id": "fir-tutorial-bc737",
+    "storage_bucket": "fir-tutorial-bc737.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105204175291:android:28764b0675b1368168f49e",
+        "android_client_info": {
+          "package_name": "com.example.ecom_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7XOeCgUCUoaBLKB3tMoQnPiBxXfJ4DNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105204175291:android:ea75551b1a7599ab68f49e",
+        "android_client_info": {
+          "package_name": "com.example.push_notification_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7XOeCgUCUoaBLKB3tMoQnPiBxXfJ4DNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105204175291:android:49a9ed6b5626a75468f49e",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7XOeCgUCUoaBLKB3tMoQnPiBxXfJ4DNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
